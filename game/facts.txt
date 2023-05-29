@@ -1,0 +1,8 @@
+Inns sell food and drink.
+Inns rent rooms.
+An inn-keeper owns and operates an inn.
+If you're thirsty, then you should drink.
+If you're hungry, then you should eat.
+Rangers like ale more than water.
+A mug of ale costs one coin.
+You must pay for food and drink in an inn.

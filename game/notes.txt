@@ -1,0 +1,3 @@
+https://github.com/daveshap/SparsePrimingRepresentations
+https://github.com/daveshap/HierarchicalMemoryConsolidationSystem
+https://platform.openai.com/docs/guides/fine-tuning
